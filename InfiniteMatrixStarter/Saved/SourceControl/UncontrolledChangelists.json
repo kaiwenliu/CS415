@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/kevin/OneDrive/Documents/HW415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/kevin/OneDrive/Documents/HW415/InfiniteMatrixStarter/Content/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/kevin/OneDrive/Documents/HW415/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/kevin/OneDrive/Documents/HW415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/kevin/OneDrive/Documents/HW415/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/kevin/OneDrive/Documents/HW415/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Health_Display.uasset",
+				"C:/Users/kevin/OneDrive/Documents/HW415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/SpazzingShake.uasset",
+				"C:/Users/kevin/OneDrive/Documents/HW415/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Score_Display.uasset",
+				"C:/Users/kevin/OneDrive/Documents/HW415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/Projectile.uasset",
+				"C:/Users/kevin/OneDrive/Documents/HW415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/CameraShakeMatrix.uasset"
+			]
+		}
+	]
+}
