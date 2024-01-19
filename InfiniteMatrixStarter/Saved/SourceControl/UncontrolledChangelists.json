@@ -6,8 +6,12 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/kevin/OneDrive/Documents/HW415/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/Projectile.uasset",
-				"C:/Users/kevin/OneDrive/Documents/HW415/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/wooden_sphere.uasset",
 				"C:/Users/kevin/OneDrive/Documents/HW415/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/wooden_sphere_1.uasset",
+				"C:/Users/kevin/OneDrive/Documents/HW415/CS415/InfiniteMatrixStarter/Content/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/kevin/OneDrive/Documents/HW415/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/kevin/OneDrive/Documents/HW415/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/kevin/OneDrive/Documents/HW415/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/Enemy.uasset",
+				"C:/Users/kevin/OneDrive/Documents/HW415/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/wooden_sphere.uasset",
 				"C:/Users/kevin/OneDrive/Documents/HW415/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/wood_Mat.uasset",
 				"C:/Users/kevin/OneDrive/Documents/HW415/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/FbxScene_wooden_sphere.uasset",
 				"C:/Users/kevin/OneDrive/Documents/HW415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
